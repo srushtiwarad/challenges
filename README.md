@@ -75,7 +75,7 @@ HTML Tables
 Displays data in rows and columns.
 <table>
 <tr><th>Name</th><th>Age</th></tr>
-<tr><td>Saniya</td><td>20</td></tr>
+<tr><td>Srushti</td><td>23</td></tr>
 </table>
 
 HTML Lists
